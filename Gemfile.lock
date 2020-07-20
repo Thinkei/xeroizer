@@ -36,7 +36,7 @@ GEM
     turn (0.9.4)
       ansi
     tzinfo (0.3.35)
-    yard (0.7.5)
+    yard (0.9.20)
 
 PLATFORMS
   ruby
